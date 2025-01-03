@@ -2,7 +2,10 @@
 Landing page for THE CALL CENTRE; my monthly performance programme. Developed through the Peckham DAZ programme.
 
 <h2>My First Webpage</h2>
-<p> Here's a link to my first webpage. <br> https://samrammmmm.github.io/THECALLCENTRE.github.io/ <br> <br>I created it to host the video documentation for my monthly performance programme called, THE CALL CENTRE.</br></p>
+<p> Here's a link to my first webpage. <br> https://samrammmmm.github.io/THECALLCENTRE.github.io/ <br> <br>I created it to host the video documentation for my monthly performance programme called, THE CALL CENTRE.</br>
+
+Here's a link to my GitHub for the project also. 
+<br> https://github.com/SamraMmmmm/THECALLCENTRE.github.io/tree/main?tab=readme-ov-file </br> </p>
 
 <h2>A reflection of your learning process and the final outcome.</h2>
 <p>I think the page is functional however with more time I would add the following; 
